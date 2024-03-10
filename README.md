@@ -3,6 +3,8 @@
 In order to build tools that work with bar codes for liquor bottles, I've tried to collect and parse publicly available data.
 These data dumps were received under public records requests or publicly available from US states' various liquor control bodies.
 
+All the scripts are [licensed under the MIT license](LICENSE), and the data is made available under the public record laws of the relevant state.
+
 ## Data sources
 
 ### [Oregon](https://github.com/jorgenpt/public_liquor_data/tree/main/data/oregon/)
