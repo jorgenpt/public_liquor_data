@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 camelot-py = {extras = ["plot"], version = "*"}
 pdfminer = "*"
+pandas = "*"
 
 [dev-packages]
 
